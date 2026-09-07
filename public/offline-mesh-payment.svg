@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Offline Mesh Payment Simulator</title>
+  <desc id="desc">Secure mesh payment routing thumbnail.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#061826"/>
+      <stop offset="1" stop-color="#12364a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <g opacity=".16" stroke="#9ae6d3" stroke-width="1">
+    <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200M0 600h1200M120 0v675M300 0v675M480 0v675M660 0v675M840 0v675M1020 0v675"/>
+  </g>
+  <g stroke="url(#accent)" stroke-width="5" fill="none" stroke-linecap="round" opacity=".9">
+    <path d="M235 420 390 300 560 385 725 255 930 355"/>
+    <path d="M390 300 500 190 725 255 835 175"/>
+    <path d="M560 385 645 505 930 355"/>
+  </g>
+  <g fill="#e6fffb" stroke="#2dd4bf" stroke-width="4">
+    <circle cx="235" cy="420" r="34"/><circle cx="390" cy="300" r="34"/><circle cx="500" cy="190" r="34"/>
+    <circle cx="560" cy="385" r="34"/><circle cx="725" cy="255" r="34"/><circle cx="835" cy="175" r="34"/>
+    <circle cx="930" cy="355" r="34"/><circle cx="645" cy="505" r="34"/>
+  </g>
+  <g fill="#05131f" opacity=".9">
+    <rect x="760" y="420" width="300" height="92" rx="14"/>
+    <rect x="805" y="535" width="240" height="42" rx="12"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="72" y="112" fill="#f8fafc" font-size="58" font-weight="800">Offline Mesh</text>
+    <text x="72" y="178" fill="#34d399" font-size="58" font-weight="800">Payment Simulator</text>
+    <text x="72" y="238" fill="#b6cbd7" font-size="25">Spring Boot - MySQL - Secure deferred transactions</text>
+    <text x="790" y="457" fill="#99f6e4" font-size="24" font-weight="700">DEFERRED SETTLEMENT</text>
+    <text x="790" y="490" fill="#f8fafc" font-size="30" font-weight="800">Verified route</text>
+    <text x="842" y="563" fill="#86efac" font-size="22" font-weight="700">AES-GCM + SHA-256</text>
+  </g>
+</svg>

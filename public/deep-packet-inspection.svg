@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Deep Packet Inspection</title>
+  <desc id="desc">Network packet analyzer thumbnail.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#07111f"/>
+      <stop offset="1" stop-color="#102a4c"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" x2="1">
+      <stop stop-color="#38bdf8"/>
+      <stop offset=".55" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#84cc16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <g opacity=".22" stroke="#60a5fa">
+    <path d="M0 500C210 370 350 540 560 360S880 180 1200 260"/>
+    <path d="M0 565C230 430 410 580 640 395S920 240 1200 320"/>
+  </g>
+  <path d="M105 470h940" stroke="url(#flow)" stroke-width="14" stroke-linecap="round"/>
+  <g fill="#0f2138" stroke="#60a5fa" stroke-width="3">
+    <rect x="380" y="250" width="108" height="170" rx="16"/><rect x="510" y="205" width="108" height="215" rx="16"/>
+    <rect x="640" y="250" width="108" height="170" rx="16"/><rect x="770" y="205" width="108" height="215" rx="16"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" font-weight="800" fill="#f8fafc" text-anchor="middle">
+    <text x="434" y="342" font-size="31">IP</text><text x="564" y="342" font-size="31">TCP</text>
+    <text x="694" y="342" font-size="31">TLS</text><text x="824" y="342" font-size="31">HTTP</text>
+  </g>
+  <g fill="#0b1727" stroke="#334155" stroke-width="2">
+    <rect x="735" y="78" width="350" height="94" rx="14"/>
+    <rect x="795" y="510" width="300" height="86" rx="14"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="72" y="116" fill="#f8fafc" font-size="62" font-weight="800">Deep Packet</text>
+    <text x="72" y="188" fill="#38bdf8" font-size="62" font-weight="800">Inspection</text>
+    <text x="72" y="248" fill="#bdd7ee" font-size="25">C++ - PCAP - TCP/IP - Multithreaded analyzer</text>
+    <text x="762" y="118" fill="#93c5fd" font-size="22" font-weight="700">TLS SNI INSPECTION</text>
+    <text x="762" y="150" fill="#bef264" font-size="25" font-weight="800">traffic classified</text>
+    <text x="823" y="560" fill="#f8fafc" font-size="24" font-weight="800">Packets/sec 125,742</text>
+  </g>
+</svg>

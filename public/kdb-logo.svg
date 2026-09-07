@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">KDB Public School Ghaziabad logo</title>
+  <desc id="desc">KDB Public School Ghaziabad crest-style mark</desc>
+  <rect width="160" height="160" rx="28" fill="#fff7e6"/>
+  <circle cx="80" cy="72" r="48" fill="#083b6f"/>
+  <circle cx="80" cy="72" r="39" fill="#f9c74f"/>
+  <circle cx="80" cy="72" r="29" fill="#ffffff"/>
+  <path d="M80 30l8 24h25L93 68l8 24-21-15-21 15 8-24-20-14h25z" fill="#083b6f"/>
+  <text x="80" y="121" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#083b6f">KDB</text>
+  <text x="80" y="141" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#6b4e16">PUBLIC SCHOOL</text>
+</svg>
