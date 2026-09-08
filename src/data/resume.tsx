@@ -15,6 +15,7 @@ export const DATA = {
 
   location: "Ghaziabad, Delhi-NCR ,India",
 
+
   locationLink:
     "https://www.google.com/maps/place/Ghaziabad",
 
@@ -182,8 +183,8 @@ export const DATA = {
     {
       school: "KDB Public School",
       href: "#",
-      degree: "CBSE Class XII: 77% | Class X: 78%",
-      logoUrl: "/kdb-logo.svg",
+      degree: "CBSE Class X: 79% | Class XII: 78%",
+      logoUrl: "/kdb-logo.png",
       start: "2019",
       end: "2021",
     },
