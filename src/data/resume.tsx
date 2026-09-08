@@ -13,10 +13,10 @@ export const DATA = {
   resumeUrl: "/resume.pdf",
   url: "https://portfolio-aman.vercel.app",
 
-  location: "Jaipur, Rajasthan, India",
+  location: "Ghaziabad, Delhi-NCR ,India",
 
   locationLink:
-    "https://www.google.com/maps/place/Jaipur",
+    "https://www.google.com/maps/place/Ghaziabad",
 
   description:
     "Software Engineer focused on Java, Spring Boot, backend APIs, cloud systems, and full-stack product delivery.",
@@ -140,6 +140,7 @@ export const DATA = {
       start: "Jun 2026",
       end: "Sep 2026",
       description: [
+        "Improved existing Spring Boot REST API workflows supporting MyJio services by optimizing backend processing and database queries, resulting in more efficient response handling and improved reliability.",
         "Developed Java and Spring Boot backend features for enterprise applications with a focus on clean code, performance, and reliability.",
         "Built and integrated REST APIs to support data-driven workflows, backend services, and application-level information exchange.",
         "Tested application changes, fixed bugs, and worked with Git-based code reviews to improve software quality and release readiness.",
@@ -156,10 +157,11 @@ export const DATA = {
       end: "Feb 2026",
 
       description: [
+        "Worked on application flows for official government web platforms, including CRPF applicant-facing website modules.",
         "Resolved CI/CD, container deployment, and AWS infrastructure issues across development and testing environments.",
         "Automated Docker image build and deployment workflows using Bitbucket Pipelines and Amazon ECR.",
         "Managed containerized applications on Amazon ECS and AWS Fargate for scalable and consistent cloud delivery.",
-        "Worked on application flows for official government web platforms, including CRPF applicant-facing website modules.",
+        
       ],
     },
   ],
